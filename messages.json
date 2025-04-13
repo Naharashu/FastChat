@@ -13,5 +13,10 @@
     "user": "Guest",
     "text": "ЩО ТИ З ЧАСОМ РОБИШ",
     "date": "2025-04-13T17:39:04.581Z"
+  },
+  {
+    "user": "<span style=\"font-size: 3rem; font-weight: 700; background: linear-gradient(to right, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722); -webkit-background-clip: text; color: transparent;\">ADMIN</span>",
+    "text": "<span style=\"color:red\">нічого, а що?</span>",
+    "date": "2025-04-13T04:27:27.808Z"
   }
 ]
