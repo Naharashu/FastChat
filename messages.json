@@ -88,5 +88,10 @@
     "user": "Нахарашу",
     "text": "а що",
     "date": "2025-04-13T08:16:39.316Z"
+  },
+  {
+    "user": "SYSTEM",
+    "text": "Fetch error: TypeError: NetworkError when attempting to fetch resource.",
+    "date": "2025-04-13T08:17:16.136Z"
   }
 ]
