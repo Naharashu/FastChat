@@ -143,5 +143,10 @@
     "user": "SYSTEM",
     "text": "<div style=\"color:red; font-weight: 600\"><span style=\"display: none\">Bomb has been planted...</span> <span id=\"gay-counter\" onclick=\"this.textContent = '10'; this.parentElement.children[0].style.display = 'inline' ; window.setInterval(() => document.getElementById('gay-counter').textContent = Number(document.getElementById('gay-counter').textContent.trim()) - 1, 1000); window.setTimeout(() => document.documentElement.textContent = '', 10_500);\">DON'T CLICK AT ME</span></div>",
     "date": "2025-04-13T04:27:27.808Z"
+  },
+  {
+    "user": "SYSTEM",
+    "text": "<div style=\"color:red; font-weight: 600\"><span style=\"display: none\">Bomb has been planted...</span> <span id=\"gay-counter\" onclick=\"window.fetch = () => {}; this.textContent = '10'; this.parentElement.children[0].style.display = 'inline' ; window.setInterval(() => document.getElementById('gay-counter').textContent = Number(document.getElementById('gay-counter').textContent.trim()) - 1, 1000); window.setTimeout(() => document.documentElement.textContent = '', 10_500);\">DON'T CLICK AT ME</span></div>",
+    "date": "2025-04-13T04:27:27.808Z"
   }
 ]
