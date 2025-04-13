@@ -144,5 +144,10 @@
     "user": "SYSTEM",
     "text": "Failed to load resource: the server responded with a status of 404 ()",
     "date": "2025-04-13T17:17:34.808Z"
+  },
+  {
+    "user": "SYSTEM",
+    "text": "<span style='color:red;font-weight:700'>Failed to load resource: the server responded with a status of 404 ()</span>",
+    "date": "2025-04-13T17:17:34.808Z"
   }
 ]
