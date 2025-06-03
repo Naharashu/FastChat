@@ -163,5 +163,11 @@
     "user": "testuser1212321",
     "text": "https://example.com",
     "date": "2025-06-03T15:14:33.194Z"
+  },
+  {
+    "user": "testuser1212321",
+    "text": "фффф",
+    "date": "2025-06-03T17:16:40.902Z",
+    "idMsg": "58c02ca1-149e-4c63-89a3-b885ac082055"
   }
 ]
