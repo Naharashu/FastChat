@@ -235,5 +235,11 @@
     "text": "async function generateCustomUUID() {\n  // 1. Timestamp (в мілісекундах від 1970) у hex\n  const timestamp = Date.now().toString(16);\n\n  // 2. Випадковий рядок (можна будь-який алфавіт)\n  const randomStr = crypto.getRandomValues(new Uint8Array(16))\n    .map(b => b.toString(36)).join('');\n\n  // 3. MD5-хеш випадкового рядка\n  const encoder = new TextEncoder();\n  const data = encoder.encode(randomStr);\n  const md5Buffer = await crypto.subtle.digest(\"MD5\", data);\n\n  const md5hex = [...new Uint8Array(md5Buffer)]\n    .map(b => b.toString(16).padStart(2, '0')).join('');\n\n  // 4. Ще один випадковий рядок\n  const randomSuffix = crypto.getRandomValues(new Uint8Array(6))\n    .map(b => b.toString(36)).join('');\n\n  // 5. Формування \"UUID\"\n  const customUUID = `${timestamp}-${md5hex}-${randomSuffix}`;\n\n  return customUUID;\n}\n\ngenerateCustomUUID().then(console.log);",
     "date": "2025-06-03T18:00:46.421Z",
     "idMsg": "c83df21c-0905-4535-a95a-fd6259257a73"
+  },
+  {
+    "user": "abcd",
+    "text": "Та що ж таке",
+    "date": "2025-06-03T18:11:56.303Z",
+    "idMsg": "e83c2dde-93f3-4f39-9193-afa262bc4ec5"
   }
 ]
