@@ -603,6 +603,7 @@
     "text": "test",
     "date": "2025-06-06T20:21:46.996Z",
     "idMsg": "34da8bc5-9d07-431a-9280-e0d70eed5e86",
-    "status": "online"
+    "status": "online",
+    "reported": true
   }
 ]
