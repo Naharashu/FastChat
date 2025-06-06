@@ -586,7 +586,8 @@
     "text": "й",
     "date": "2025-06-04T19:26:17.488Z",
     "idMsg": "dd794e22-a916-4b41-9b1c-cd703601ab23",
-    "status": "offline"
+    "status": "offline",
+    "reported": true
   },
   {
     "user": "Danilo",
