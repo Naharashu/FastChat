@@ -597,5 +597,12 @@
     "date": "2025-06-04T19:26:21.217Z",
     "idMsg": "b118214b-f36a-41b5-834d-92b1fa695824",
     "status": "offline"
+  },
+  {
+    "user": "Danilo",
+    "text": "test",
+    "date": "2025-06-06T20:21:46.996Z",
+    "idMsg": "34da8bc5-9d07-431a-9280-e0d70eed5e86",
+    "status": "online"
   }
 ]
